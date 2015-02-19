@@ -7,7 +7,7 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('METEOR@0.9.0.1');
-  api.addFiles(['lib/ol.js', 'styles/ol.css'], 'client');
+  api.add_files("ol3.fetch.json", "client");
 });
 
 Package.onTest(function(api) {

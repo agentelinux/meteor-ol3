@@ -1,0 +1,12 @@
+[
+    {
+        "file": "ol.js",
+        "url": "http://openlayers.org/en/v3.2.1/build/ol.js",
+        "bare": true
+    }
+,
+    {
+        "file": "ol.css",
+        "url": "http://openlayers.org/en/v3.2.1/css/ol.css"
+    }
+]
